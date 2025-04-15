@@ -6,9 +6,9 @@ import bagel.Keys;
 import bagel.util.Point;
 
 /**
- * ShadowFlap class for SWEN20003 Project 2, Semester 2, 2021
+ * ShadowFlap class for SWEN20003 Project
  *
- * @author: Vincent Kurniawan (1110090)
+ * @author: Vincent Kurniawan
  */
 public class ShadowFlap extends AbstractGame {
 
